@@ -1,1 +1,23 @@
 ## The Green Planet - Tropical Worlds
+
+<!-- 本纪录片以植物自身的视角重新审视我们的地球，为观众揭开了不为人知却又和人类紧密相关的植物世界。不同的篇章介绍了截然不同的生存环境中植物与动物乃至人类之间的关系，本篇介绍的是雨林天地。
+虽然雨林只占地球面积的一小部分，但是生活在这里的动植物却占地球已知物种的一半以上。看似安静祥和的森林世界暗藏杀机，植物为了争夺光照彼此之间展开了激烈的竞争。
+一棵古老的大树倒下时，在它的残躯上，从蕨类到灌木再到真正的“树”，不同种类的植物各显其能，只为在这片新诞生的伊甸园里拥有自己的一席之地。耗时一年，一种名为轻木的树轻木凭借着其独特的木质结构达到了多数植物无法企及的高度，拿下了这场阳光大战的胜利。
+植物的生长离不开光合作用，而对于我们来说光合作用会释放出人类以及其他动物呼吸时所需的氧气。而植物赖以生存的叶片却为他们招来了众多天敌。其中最强大的莫属一种叫白环菇的真菌，切叶蚁为真菌提供树叶，真菌长出微小的蘑菇喂养切叶蚁。而树木则会释放化学毒素来进行防御，双方在相互制约中发展。
+成年后植物的能量将主要用于繁衍，不同的植物拥有不同的繁衍策略。轻木分泌花蜜，蜜熊享用同时完成了传粉，这样动植物互利共赢的策略在热带雨林中并不总是如此。有食用昆虫的植物，还有寄生的植物。
+要想繁衍，只是成功授粉并不够。森林里还生活着一群以种子为食的动物。龙脑香科植物在相同的时间结出种子，使喜食种子的动物应接不暇。即便是具备强大防御能力的见血封喉没想到有一天竟然毒死了自己。
+当然，在这广阔的雨林里，还有一种生物常常被我们忽略，那就是真菌。真菌并不只是我们所认为的种种蘑菇，那只是真菌用于繁殖的子实体。在每立方米的雨林中，空气中至少漂浮着10亿颗孢子。研究发现这些孢子在雨林生态中发挥着核心作用。
+雨林是世界上美丽多彩，最具活力的生态环境。它的存在，得益于自然界中各种复杂的关联。由于人类活动的干涉，这种关联变得越来越脆弱了。
+灯幅花，一种生命只有7小时的花。在它开放时，一种蝙蝠会以它的花蜜为食，在进食的同时为它传播了花粉。但是，事实上是这种花蜜的营养价值很低，蝙蝠不得不食用大量的花朵维持升级。随着森林面积的减少，这种蝙蝠将灭绝，随后这种花也将不复存在。
+在未来，我们要抓住这仅剩无几的机会，协助热带雨林完成自我修复。若想为子孙后代保留这一宝贵资源，世界各国必须为此通力合作，除此之外别无他法。只有这样，我们才能守护这个绿色星球上的所有生命。 -->
+
+This documentary takes a fresh look at our planet through the eyes of the plants themselves, revealing a world of plants that is not known but is closely related to humans. The relationship between plants, animals and even humans in very different environments is presented in different chapters, this one on the rainforest.
+Although rainforests cover only a small part of the Earth, they are home to more than half of the planet's known species of plants and animals. The seemingly quiet and peaceful world of the forest is a place of murder, where plants compete fiercely with each other for light.
+When an ancient tree falls, the remains of its body are filled with different species of plants, from ferns to shrubs to real 'trees', each trying to make its own place in this newly born Eden. It took a year for a tree called Lightwood to win the battle for sunlight, thanks to its unique woody structure that reached a height unattainable by most plants.
+Plants cannot grow without photosynthesis, which in our case releases the oxygen that humans and other animals need to breathe. But the leaves on which plants depend for their survival have attracted many natural enemies. One of the most powerful is a fungus called the white ring mushroom. Leaf-cutting ants provide the fungus with leaves and the fungus grows tiny mushrooms to feed the leaf-cutting ants. The tree, in turn, releases chemical toxins in defence, and the two develop in mutual restraint.
+As adults, the plant's energy will be used mainly for reproduction, and different plants have different reproductive strategies. Light woods secrete nectar and honey bears enjoy pollination at the same time, a mutually beneficial strategy for plants and animals that is not always the case in the rainforest. There are plants that eat insects, and then there are parasitic plants.
+Successful pollination is not enough for reproduction. There are also groups of seed-feeding animals living in the forest. Plants of the lobelia family produce seeds at the same time, overwhelming the seed-loving animals. Even the bloodsucker with its powerful defences did not expect to poison itself one day.
+Of course, there is another organism that is often overlooked in this vast rainforest, and that is fungi. Fungi are not just mushrooms as we think of them, they are just the substrates that fungi use to reproduce. In every cubic metre of rainforest, there are at least one billion spores floating in the air. Research has found that these spores play a central role in the ecology of the rainforest.
+The rainforest is one of the most beautiful, colourful and dynamic ecosystems in the world. It owes its existence to the complex interconnections that exist in nature. As a result of human intervention, these connections are becoming increasingly fragile.
+The lamplighter, a flower that lives for only seven hours. When it opens, a species of bat feeds on its nectar, spreading pollen for it as it feeds. However, the fact is that the nectar is so low in nutritional value that the bats have to consume large quantities of the flower to maintain their survival. As the forest area decreases, this bat will become extinct and subsequently the flower will also cease to exist.
+In the future, it is up to us to seize the few remaining opportunities to help the rainforest to repair itself. If we are to preserve this precious resource for future generations, the world must work together to do so, and there is no other way. Only then will we be able to safeguard all life on this green planet.

@@ -15,12 +15,12 @@ The.Green.Planet
   - [中文](GregGage-DeepL.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [下载](GregGage-DeepL.pdf)
 
 
-要求
-- [总结](conclusion.md)
-- [报告](report.md)
-- 配音
+自由发挥，6.9号之前打包发
 
-6.9号之前打包发
+参考项目
+- 总结
+- 报告
+- 配音
 
 
 ## 参考资料
